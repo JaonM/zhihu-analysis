@@ -9,3 +9,4 @@ buildNumber.properties
 .mvn/timing.properties
 resources/
 *.txt
+.DS_Store
